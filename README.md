@@ -8,5 +8,5 @@ $\mathbf{q} : \mathbf{R} \to \mathbf{R}^N$
 
 $\mathcal{S}[\mathbf{q}, t_1, t_2] = \int_{t_1}^{t_2} L(\mathbf{q}(t),\mathbf{\dot{q}}(t), t) dt $ 
 
-<img src="./Action.svg"  width="500" 
+<img src="./Action.png"  width="500" 
      height=auto>
