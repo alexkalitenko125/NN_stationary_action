@@ -1,2 +1,2 @@
 # NN_stationary_action
-NN for classical mechanics
+NN for the classical mechanics
