@@ -6,5 +6,5 @@ The stationary-action principle – also known as the principle of least action 
 
 $\mathbf{q} : \mathbf{R} \to \mathbf{R}^N$
 
-$\mathcal{S}[\mathbf{q}, t_1, t_2] = \int_{t_1}^{t_2} L(\mathbf{q}(t),\mathbf{\dot{q}}(t), t) dt $ \\
+$\mathcal{S}[\mathbf{q}, t_1, t_2] = \int_{t_1}^{t_2} L(\mathbf{q}(t),\mathbf{\dot{q}}(t), t) dt $ 
 where the dot denotes the [[time derivative]], and {{mvar|t}} is time.
