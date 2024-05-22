@@ -10,3 +10,5 @@ $\mathcal{S}[\mathbf{q}, t_1, t_2] = \int_{t_1}^{t_2} L(\mathbf{q}(t),\mathbf{\d
 
 <img src="./Action.png"  width="500" 
      height=auto>
+
+This neural network learns to build trajectories between two points. The Lagrange-Euler equations were used as the loss function.
